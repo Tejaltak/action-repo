@@ -1,3 +1,3 @@
 # action-repo
-Updated README to trigger push webhook
+Updated README to trigger push webhook.
 
